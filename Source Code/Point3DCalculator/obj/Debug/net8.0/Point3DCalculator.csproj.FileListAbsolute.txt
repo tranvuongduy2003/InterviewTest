@@ -1,0 +1,42 @@
+/Users/duytran/Desktop/dotnet/Point3DCalculator/bin/Debug/net8.0/Point3DCalculator
+/Users/duytran/Desktop/dotnet/Point3DCalculator/bin/Debug/net8.0/Point3DCalculator.deps.json
+/Users/duytran/Desktop/dotnet/Point3DCalculator/bin/Debug/net8.0/Point3DCalculator.runtimeconfig.json
+/Users/duytran/Desktop/dotnet/Point3DCalculator/bin/Debug/net8.0/Point3DCalculator.dll
+/Users/duytran/Desktop/dotnet/Point3DCalculator/bin/Debug/net8.0/Point3DCalculator.pdb
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.AssemblyInfoInputs.cache
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.AssemblyInfo.cs
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.csproj.CoreCompileInputs.cache
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.dll
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/refint/Point3DCalculator.dll
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.pdb
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/Point3DCalculator.genruntimeconfig.cache
+/Users/duytran/Desktop/dotnet/Point3DCalculator/obj/Debug/net8.0/ref/Point3DCalculator.dll
+D:\Interview\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.exe
+D:\Interview\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.deps.json
+D:\Interview\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.runtimeconfig.json
+D:\Interview\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.dll
+D:\Interview\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.pdb
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.AssemblyInfoInputs.cache
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.AssemblyInfo.cs
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.csproj.CoreCompileInputs.cache
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.dll
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\refint\Point3DCalculator.dll
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.pdb
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.genruntimeconfig.cache
+D:\Interview\Point3DCalculator\obj\Debug\net8.0\ref\Point3DCalculator.dll
+D:\Interview\Source code\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.exe
+D:\Interview\Source code\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.deps.json
+D:\Interview\Source code\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.runtimeconfig.json
+D:\Interview\Source code\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.dll
+D:\Interview\Source code\Point3DCalculator\bin\Debug\net8.0\Point3DCalculator.pdb
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.AssemblyInfoInputs.cache
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.AssemblyInfo.cs
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.csproj.CoreCompileInputs.cache
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.dll
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\refint\Point3DCalculator.dll
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.pdb
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\Point3DCalculator.genruntimeconfig.cache
+D:\Interview\Source code\Point3DCalculator\obj\Debug\net8.0\ref\Point3DCalculator.dll

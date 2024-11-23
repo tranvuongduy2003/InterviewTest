@@ -1,0 +1,42 @@
+D:\.NET\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.exe
+D:\.NET\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.deps.json
+D:\.NET\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.runtimeconfig.json
+D:\.NET\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.dll
+D:\.NET\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.pdb
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.AssemblyInfoInputs.cache
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.AssemblyInfo.cs
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.csproj.CoreCompileInputs.cache
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.dll
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\refint\SplittingTeaPot.dll
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.pdb
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.genruntimeconfig.cache
+D:\.NET\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\ref\SplittingTeaPot.dll
+D:\Interview\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.exe
+D:\Interview\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.deps.json
+D:\Interview\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.runtimeconfig.json
+D:\Interview\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.dll
+D:\Interview\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.pdb
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.AssemblyInfoInputs.cache
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.AssemblyInfo.cs
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.csproj.CoreCompileInputs.cache
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.dll
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\refint\SplittingTeaPot.dll
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.pdb
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.genruntimeconfig.cache
+D:\Interview\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\ref\SplittingTeaPot.dll
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.exe
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.deps.json
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.runtimeconfig.json
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.dll
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\bin\Debug\net8.0\SplittingTeaPot.pdb
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.AssemblyInfoInputs.cache
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.AssemblyInfo.cs
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.csproj.CoreCompileInputs.cache
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.dll
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\refint\SplittingTeaPot.dll
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.pdb
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\SplittingTeaPot.genruntimeconfig.cache
+D:\Interview\Source code\SplittingTeaPot\SplittingTeaPot\obj\Debug\net8.0\ref\SplittingTeaPot.dll

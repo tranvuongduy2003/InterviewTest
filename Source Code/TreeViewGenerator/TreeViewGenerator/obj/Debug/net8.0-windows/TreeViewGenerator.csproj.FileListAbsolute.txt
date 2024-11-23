@@ -1,0 +1,48 @@
+D:\.NET\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.exe
+D:\.NET\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.deps.json
+D:\.NET\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.runtimeconfig.json
+D:\.NET\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.dll
+D:\.NET\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.pdb
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.csproj.GenerateResource.cache
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.AssemblyInfoInputs.cache
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.AssemblyInfo.cs
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.csproj.CoreCompileInputs.cache
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.dll
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\refint\TreeViewGenerator.dll
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.pdb
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.genruntimeconfig.cache
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\ref\TreeViewGenerator.dll
+D:\.NET\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.XNode.resources
+D:\Interview\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.exe
+D:\Interview\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.deps.json
+D:\Interview\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.runtimeconfig.json
+D:\Interview\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.dll
+D:\Interview\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.pdb
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.XNode.resources
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.csproj.GenerateResource.cache
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.AssemblyInfoInputs.cache
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.AssemblyInfo.cs
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.csproj.CoreCompileInputs.cache
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.dll
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\refint\TreeViewGenerator.dll
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.pdb
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.genruntimeconfig.cache
+D:\Interview\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\ref\TreeViewGenerator.dll
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.exe
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.deps.json
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.runtimeconfig.json
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.dll
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\bin\Debug\net8.0-windows\TreeViewGenerator.pdb
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.XNode.resources
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.csproj.GenerateResource.cache
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.AssemblyInfoInputs.cache
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.AssemblyInfo.cs
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.csproj.CoreCompileInputs.cache
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.dll
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\refint\TreeViewGenerator.dll
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.pdb
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\TreeViewGenerator.genruntimeconfig.cache
+D:\Interview\Source code\TreeViewGenerator\TreeViewGenerator\obj\Debug\net8.0-windows\ref\TreeViewGenerator.dll
